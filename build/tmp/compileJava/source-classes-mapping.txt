@@ -1,2 +1,2 @@
-Counter.java
+ru/ac/uniyar/testingcourse/Counter.java
  ru.ac.uniyar.testingcourse.Counter
